@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on a project that shows the power creep in the card game 'Magic The Gathering'
+
 🌱 I’m currently working on my masters in Applied Statistics.
 💬 Ask me about my two awesome cats.
 😄 Pronouns: He/Him
